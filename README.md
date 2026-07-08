@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Mohamad Hilman! 👋<br>🛡️ Cybersecurity Student | 🤖 Data & AI/ML Engineer | 📱 Mobile Developer<br><br>I am a final-year Computer Science student specializing in Information Security & Assurance, currently bridging the gap between secure systems, data pipelines, and intelligent applications. I thrive on building secure, efficient, and data-driven solutions. <br><br>Right now, I am pushing production code in a hybrid internship role spanning Data Engineering, AI/ML Engineering, and Mobile Development.
+Hi there, I'm Mohamad Hilman! 👋<br>🛡️ Cybersecurity Student | 🤖 Data & AI/ML Engineer | 📱 System Developer<br><br>I am a final-year Computer Science student specializing in Information Security & Assurance, currently bridging the gap between secure systems, data pipelines, and intelligent applications. I thrive on building secure, efficient, and data-driven solutions. <br><br>Right now, I am pushing production code in a hybrid internship role spanning Data Engineering, AI/ML Engineering, and Mobile Development.
 
 
 ## 🌐 Socials:
